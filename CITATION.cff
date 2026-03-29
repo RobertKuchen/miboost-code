@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Kuchen"
     given-names: "Robert"
-version: "1.0.0"
-date-released: 2026-03-25
-repository-code: "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
-doi: "10.5281/zenodo.12345678"
+version: "1.0.1"
+doi: "10.5281/zenodo.19322771"
+date-released: 2026-03-29
+repository-code: "https://github.com/RobertKuchen/miboost-code"
