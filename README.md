@@ -1,5 +1,3 @@
----
-
 # Code for: *MIBoost: A gradient boosting algorithm for variable selection after multiple imputation*
 
 This repository contains the R code for the simulation study reported in the paper *MIBoost: A gradient boosting algorithm for variable selection after multiple imputation*.
@@ -73,5 +71,3 @@ Package versions are managed with `renv`. To restore the package environment, op
 install.packages("renv")   # if needed
 renv::restore()
 ```
-
----
