@@ -156,7 +156,7 @@ Approximate runtimes on the author’s machine, measured using `system.time()` a
 - `EA_Boosting_Wrapper.R`: about 21 minutes
 - `MIBoost_Wrapper.R`: about 36 minutes
 - `SaLASSO_wrapper.R`: about 2 hours 41 minutes
-- `SaENET_wrapper.R`: about 16 hours 35 minutes
+- `SaENET_wrapper.R`: about 36 hours 35 minutes
 
 ## Citation
 
