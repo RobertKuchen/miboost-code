@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+.Rproj.user/
+renv/library/
+
+output/*.RData
+output/*.rds
+output/*.Rds
+output/*.csv
+output/*.tex
+output/*.log
